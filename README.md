@@ -1,0 +1,1 @@
+Partial codes for retrieving and storing tweets using hbase. For it to work add all the jars from twitter4j and hbase/lib directory to classpath. I assume hbase is setup in pseudo-distributed mode so that it will use HDFS for storage
